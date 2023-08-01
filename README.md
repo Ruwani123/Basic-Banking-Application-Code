@@ -1,0 +1,2 @@
+# Basic-Banking-Application-Code
+The "Basic Banking Application" is a C programming project that aims to create a simple yet functional banking system. The application will allow users to perform essential banking operations such as creating new bank accounts, depositing and withdrawing money, checking account balance, and transferring funds between accounts. The project will focus on efficient and error-free implementation with proper error handling for various scenarios
